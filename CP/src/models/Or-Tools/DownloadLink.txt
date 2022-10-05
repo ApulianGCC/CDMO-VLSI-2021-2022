@@ -1,0 +1,12 @@
+https://developers.google.com/optimization/install
+
+
+After the download it is necessary to add it to minizinc in order to use the solver and the associated configuration.
+
+In case of any possible error, the configuration used for the tests is the following one: 
+
+- TIME LIMIT: 300.00 seconds (5 minutes)
+- OPTIMIZATION LEVEL: O5 (as -O3 with singleton arc consistency)
+- NUMBER OF THREADS: 7
+
+ 
