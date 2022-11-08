@@ -1,0 +1,467 @@
+Gurobi 9.5.1: optimal solution; objective 8
+14 simplex iterations
+1 branch-and-cut nodes
+_total_solve_elapsed_time = 0.047
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 9
+103 simplex iterations
+1 branch-and-cut nodes
+_total_solve_elapsed_time = 0.063
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 10
+30 simplex iterations
+1 branch-and-cut nodes
+_total_solve_elapsed_time = 0.047
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 11
+148 simplex iterations
+1 branch-and-cut nodes
+_total_solve_elapsed_time = 0.046
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 12
+246 simplex iterations
+1 branch-and-cut nodes
+_total_solve_elapsed_time = 0.063
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 13
+178 simplex iterations
+1 branch-and-cut nodes
+_total_solve_elapsed_time = 0.046
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 14
+1582 simplex iterations
+9 branch-and-cut nodes
+_total_solve_elapsed_time = 0.344
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 15
+1142 simplex iterations
+9 branch-and-cut nodes
+_total_solve_elapsed_time = 0.375
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 16
+331 simplex iterations
+1 branch-and-cut nodes
+_total_solve_elapsed_time = 0.062
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 17
+11907 simplex iterations
+978 branch-and-cut nodes
+_total_solve_elapsed_time = 0.75
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 18
+102327 simplex iterations
+5129 branch-and-cut nodes
+_total_solve_elapsed_time = 4.266
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 19
+491786 simplex iterations
+14994 branch-and-cut nodes
+_total_solve_elapsed_time = 11.828
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 20
+88840 simplex iterations
+4739 branch-and-cut nodes
+_total_solve_elapsed_time = 2.968
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 21
+129269 simplex iterations
+5892 branch-and-cut nodes
+_total_solve_elapsed_time = 5.094
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 22
+41295 simplex iterations
+2165 branch-and-cut nodes
+_total_solve_elapsed_time = 4.297
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: time limit with a feasible solution; objective 24
+5629056 simplex iterations
+168715 branch-and-cut nodes
+No basis.
+No dual variables returned.
+_total_solve_elapsed_time = 300.187
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 24
+1347164 simplex iterations
+40763 branch-and-cut nodes
+_total_solve_elapsed_time = 55.703
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: time limit with a feasible solution; objective 26
+5672593 simplex iterations
+156140 branch-and-cut nodes
+No basis.
+No dual variables returned.
+_total_solve_elapsed_time = 300.219
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: time limit with a feasible solution; objective 27
+6030611 simplex iterations
+146357 branch-and-cut nodes
+No basis.
+No dual variables returned.
+_total_solve_elapsed_time = 300.219
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: time limit with a feasible solution; objective 28
+7001844 simplex iterations
+135795 branch-and-cut nodes
+No basis.
+No dual variables returned.
+_total_solve_elapsed_time = 300.234
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: time limit with a feasible solution; objective 29
+6244292 simplex iterations
+124738 branch-and-cut nodes
+No basis.
+No dual variables returned.
+_total_solve_elapsed_time = 300.734
+
+ampl: Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: time limit with a feasible solution; objective 30
+5327571 simplex iterations
+124512 branch-and-cut nodes
+No basis.
+No dual variables returned.
+_total_solve_elapsed_time = 300.781
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: time limit with a feasible solution; objective 31
+5762981 simplex iterations
+209238 branch-and-cut nodes
+No basis.
+No dual variables returned.
+_total_solve_elapsed_time = 300.203
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 31
+24670 simplex iterations
+1129 branch-and-cut nodes
+_total_solve_elapsed_time = 7.172
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: time limit with a feasible solution; objective 33
+5712666 simplex iterations
+106331 branch-and-cut nodes
+No basis.
+No dual variables returned.
+_total_solve_elapsed_time = 300.234
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: time limit with a feasible solution; objective 34
+5423295 simplex iterations
+165563 branch-and-cut nodes
+No basis.
+No dual variables returned.
+_total_solve_elapsed_time = 300.437
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 34
+763025 simplex iterations
+26384 branch-and-cut nodes
+_total_solve_elapsed_time = 40.281
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 35
+1672959 simplex iterations
+58970 branch-and-cut nodes
+_total_solve_elapsed_time = 82.296
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 36
+686124 simplex iterations
+20249 branch-and-cut nodes
+_total_solve_elapsed_time = 34.453
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: time limit with a feasible solution; objective 38
+5859213 simplex iterations
+110081 branch-and-cut nodes
+No basis.
+No dual variables returned.
+_total_solve_elapsed_time = 300.437
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 38
+1054360 simplex iterations
+40370 branch-and-cut nodes
+_total_solve_elapsed_time = 45.297
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 39
+1305031 simplex iterations
+31898 branch-and-cut nodes
+_total_solve_elapsed_time = 85.422
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: optimal solution; objective 40
+113738 simplex iterations
+4001 branch-and-cut nodes
+_total_solve_elapsed_time = 10.812
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: time limit with a feasible solution; objective 41
+6108855 simplex iterations
+116873 branch-and-cut nodes
+No basis.
+No dual variables returned.
+_total_solve_elapsed_time = 300.453
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: time limit with a feasible solution; objective 41
+3903500 simplex iterations
+160677 branch-and-cut nodes
+No basis.
+No dual variables returned.
+_total_solve_elapsed_time = 300.203
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: time limit with a feasible solution; objective 41
+5206723 simplex iterations
+152209 branch-and-cut nodes
+No basis.
+No dual variables returned.
+_total_solve_elapsed_time = 300.265
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: time limit with a feasible solution; objective 62
+5592377 simplex iterations
+64706 branch-and-cut nodes
+No basis.
+No dual variables returned.
+_total_solve_elapsed_time = 300.469
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: time limit with a feasible solution; objective 61
+6302001 simplex iterations
+71880 branch-and-cut nodes
+No basis.
+No dual variables returned.
+_total_solve_elapsed_time = 300.453
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: time limit with a feasible solution; objective 61
+6781204 simplex iterations
+84370 branch-and-cut nodes
+No basis.
+No dual variables returned.
+_total_solve_elapsed_time = 300.469
+
+Gurobi 9.5.1: method=1
+nodemethod=0
+mipfocus=2
+presolve=2
+cuts=2
+timelim=300
+Gurobi 9.5.1: time limit with a feasible solution; objective 102
+1461730 simplex iterations
+8825 branch-and-cut nodes
+No basis.
+No dual variables returned.
+_total_solve_elapsed_time = 300.125

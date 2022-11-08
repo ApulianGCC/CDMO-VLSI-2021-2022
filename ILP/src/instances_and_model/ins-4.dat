@@ -1,0 +1,17 @@
+data;
+
+param w := 11;
+param n := 7;
+param min_h := 11;
+param max_h := 14;
+
+set BLOCKS := 1 2 3 4 5 6 7 ;
+
+param:	width	height :=
+	1	8	4
+	2	5	4
+	3	3	6
+	4	3	5
+	5	5	3
+	6	3	4
+	7	3	3;
